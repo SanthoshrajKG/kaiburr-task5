@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>kaiburr-task5</finalName>
 	</build>
 
 </project>
